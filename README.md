@@ -31,7 +31,9 @@ After cloning, I navigated into the repository and accessed the RTL Design and S
 cd ~/VLSI/vsd-rtl/sky130RTLDesignAndSynthesisWorkshop
 ```
 
-**Screenshot:** `images/01_git_clone.png`
+**Screenshot1:**
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/30d998a3-53f3-4ae8-8d68-249c8c693430" />
+
 
 ## 4. Exploring the Repository Structure
 
