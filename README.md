@@ -1,5 +1,5 @@
 # RTL Design and Synthesis Workshop — Initial Setup
-### DAY1
+### LAB1
 ## 1. Overview
 
 This repository documents my hands-on learning and practical work as part of the **RTL Design and Synthesis Workshop** using the SKY130 technology ecosystem.
