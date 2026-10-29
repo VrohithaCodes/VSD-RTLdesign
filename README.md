@@ -53,7 +53,9 @@ The workshop directory contains the following important files and folders:
 | `yosys_run.sh` | Shell script provided for the synthesis workflow |
 | `README.md` | Workshop instructions and documentation |
 
-**Screenshot:** `images/02_repository_structure.png`
+**Screenshot2:** 
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/e5fc871b-182f-4996-93fb-73201bd65cd1" />
+
 
 ## 5. Inspecting the Design and Library Files
 
